@@ -3,3 +3,5 @@ Hi, hello welcome
 how old are you
 
 thanks for coming
+
+https://medium.com/geekculture/deploy-an-aws-eks-cluster-using-terraform-965fe680f9d4 ---> check this out for eks deployment
