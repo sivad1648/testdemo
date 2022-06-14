@@ -7,7 +7,7 @@ resource "aws_eip" "nat1" {
 # A map of tags to assign to the resource.
 #  tags = {
 #    Name = "main"  
-}
+#}
 
 resource "aws_eip" "nat2" {
 # EIP may result IGW to exist prior to association.
