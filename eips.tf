@@ -5,8 +5,8 @@ resource "aws_eip" "nat1" {
 }
 
 # A map of tags to assign to the resource.
-  tags = {
-    Name = "main"  
+#  tags = {
+#    Name = "main"  
 }
 
 resource "aws_eip" "nat2" {
